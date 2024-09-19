@@ -174,7 +174,7 @@
                 }
               ],
               "color": "rgba(148, 0, 211, 0.2)",
-              "mapping": "columns",
+              "mapping": "defaultContent",
               "customBlockName": ""
             },
             {
